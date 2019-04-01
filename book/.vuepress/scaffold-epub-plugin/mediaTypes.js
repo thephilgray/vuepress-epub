@@ -1,0 +1,20 @@
+module.exports = {
+  css: 'text/css',
+  gif: 'image/gif',
+  jpeg: 'image/jpeg',
+  jpg: 'image/jpeg',
+  js: 'application/javascript',
+  m4a: 'audio/m4a',
+  mp3: 'audio/mp3',
+  mp4: 'video/mp4',
+  png: 'image/png',
+  svg: 'image/svg+xml',
+  ttc: 'application/font-sfnt',
+  ttf: 'application/font-sfnt',
+  vtt: 'text/vtt',
+  woff: 'application/font-woff',
+  woff2: 'font/woff2',
+  xhtml: 'application/xhtml+xml',
+  html: 'application/xhtml+xml',
+  xml: 'application/xml'
+};

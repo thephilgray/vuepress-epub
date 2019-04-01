@@ -1,0 +1,25 @@
+{
+  "name": "vuepress-epub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "book:dev": "vuepress dev book",
+    "book:build": "vuepress build book"
+  },
+  "keywords": [],
+  "author": "thephilgray",
+  "license": "ISC",
+  "dependencies": {
+    "assets-webpack-plugin": "^3.9.7",
+    "fs-extra": "^7.0.1",
+    "html-webpack-plugin": "^3.2.0",
+    "htmltidy": "0.0.6",
+    "prettier": "^1.16.3",
+    "vuepress-plugin-dehydrate": "^1.0.2"
+  },
+  "devDependencies": {
+    "tidy-html-webpack-plugin": "^0.1.2",
+    "vuepress": "^1.0.0-alpha.35"
+  }
+}
